@@ -2,3 +2,9 @@ Sample API created for the purpose of having a subject API with real use cases t
 
 Automation suite can be found on:
     https://github.com/santiagoflores995/MochaJS-Automation
+
+To run the service just:
+
+1. run 'yarn install' or 'npm install'
+
+2. run 'yarn start' or 'npm start'
